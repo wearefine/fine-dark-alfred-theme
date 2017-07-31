@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#FFFFFFC4",
+        "font" : "Helvetica Neue Light",
+        "color" : "#F6F6F666"
+      },
+      "shortcut" : {
+        "size" : 13,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "Helvetica Neue Light",
+        "color" : "#9AA23AFF"
+      },
+      "backgroundSelected" : "#9AA23AFF",
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#FEFDFFFF",
+        "font" : "Helvetica Neue Light",
+        "color" : "#DBDADCB5"
+      },
+      "iconPaddingHorizontal" : 12,
+      "paddingVertical" : 7,
+      "iconSize" : 23
+    },
+    "search" : {
+      "paddingVertical" : 4,
+      "background" : "#21212100",
+      "spacing" : 6,
+      "text" : {
+        "size" : 33,
+        "colorSelected" : "#000000FF",
+        "font" : "Helvetica Neue Light",
+        "color" : "#FCFEFFFF"
+      },
+      "backgroundSelected" : "#B2D7FFFF"
+    },
+    "window" : {
+      "color" : "#000000A5",
+      "paddingHorizontal" : 5,
+      "width" : 559,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 20,
+      "roundness" : 3,
+      "paddingVertical" : 3
+    },
+    "credit" : "James Kurczodyna",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#9AA23AFF",
+      "thickness" : 2
+    },
+    "name" : "FINE Dark"
+  }
+}
