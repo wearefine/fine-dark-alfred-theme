@@ -1,5 +1,7 @@
 # FINE Dark Alfred Theme
 
+A dark theme for [Alfred](https://www.alfredapp.com/), the productivity tool for Mac.
+
 ![FINE Dark preview](preview.png)
 
 ## Installation
